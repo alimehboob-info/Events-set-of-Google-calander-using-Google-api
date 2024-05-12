@@ -1,0 +1,17 @@
+Database Name: bitsclan
+
+Email :alimehboob@gmail.com
+
+Password:ali12345
+
+
+i did not use Hash to encript password , 
+so you can easily check email and password from database to login easily for testing purpose:
+
+i Authorize  this email to fetched Events from Google Calander : 
+careersbitsclan@gmail.com
+
+first create Events through this email careersbitsclan@gmail.com and than fetch event in dashboard,
+also Edit Event . if Edit Through Dashboard its will Automatically change effect from Google calander;
+
+JAZAK ALLAH;

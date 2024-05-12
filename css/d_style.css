@@ -1,0 +1,20 @@
+.images {
+  width: 15%;
+  margin: 1px auto;
+}
+.images img {
+  width: 80%;
+}
+
+.clearfix {
+  background-color: #81b921;
+  color: whitesmoke;
+}
+.clearfix:hover {
+  background-color: black;
+  color: white;
+  transition: all 0.6s ease-in-out;
+}
+.style-card {
+  border-radius: 10px;
+}
